@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-.GLOBAL
 .CORDEX-EUR11
 .TestEPW
 *.nc

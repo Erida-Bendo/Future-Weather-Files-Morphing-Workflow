@@ -1,6 +1,9 @@
 .ipynb_checkpoints
+._pycache
+_pycache/
+#_pycache
+
 .CORDEX-EUR11
-.TestEPW
 *.nc
 # Environments
 .env
